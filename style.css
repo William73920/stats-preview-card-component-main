@@ -160,6 +160,7 @@ body {
     display: grid;
     grid-template-columns: 1fr 1fr;
     max-width: 865px;
+    overflow: hidden;
   }
 
   .stats__content {
